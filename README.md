@@ -1,6 +1,7 @@
 # Industrial OT/ICS Risk & GRC Dahboard
 
 Demo: https://aljawharak.github.io/GRC_Dashboard/
+---
 An interactive, responsive Governance, Risk, and Compliance (GRC) dashboard purpose-built for operational technology (OT) and industrial control systems (ICS). This platform implements the **ISO/IEC 27005** risk management methodology.
 
 Designed tailored to the engineering and cybersecurity requirements of heavy industries such as energy, oil & gas, and mining.
